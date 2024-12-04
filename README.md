@@ -24,7 +24,7 @@
   
   <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VagnerGGJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=1e1e1e&title_color=ffffff&text_color=36C6C6&icon_color=ffffff"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerGGJ&layout=compact&langs_count=7&theme=dracula&bg_color=1e1e1e&title_color=ffffff&text_color=36C6C6"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerGGJ&layout=compact&langs_count=7&theme=dracula&bg_color=1e1e1e&title_color=ffffff&text_color=ffffff"/>
   </div>
 
 </div>
