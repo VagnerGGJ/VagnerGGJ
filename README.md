@@ -1,48 +1,77 @@
-# 👋 Olá! Eu sou Vagner Gois
+<header>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36C6C6&section=header">
+</header>
 
-### 💻 Sobre mim
-🎯 Desenvolvedor focado em Desenvolvimento Full Stack  
-📍 Localização: Lençóis Paulista / São Paulo / Brasil  
-📚 Sempre aprendendo algo novo, atualmente estudando e se aventurando no desenvolvimento mobile.  
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whit" />
-  <img align="center" alt="TailWind Css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img align="center" alt="RactNatve" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  
-  <img align="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&pause=1000&color=36C6C6&center=true&multiline=true&repeat=false&width=435&lines=Hello!+I'm+Vagner+Gois." alt="Hello! I'm Vagner Gois" />
 </div>
 
 ---
 
-### 📈 Estatísticas do GitHub
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VagnerGGJ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerGGJ&layout=compact&langs_count=7&theme=radical"/>
+<div align="center">
+  
+  ### About Me
+  Full Stack Developer focused on Development   
+  Always learning something new, currently studying and venturing into full stack development.
+
 </div>
 
 ---
 
-### 🌐 Como me encontrar:
-- 💼 [LinkedIn](linkedin.com/in/vagner-gois-667879230/)
-- 📧 Email: **vagnerg.gois@email.com**
+<div align="center">
+
+  ### GitHub Stats
+  
+  <div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VagnerGGJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=1e1e1e&title_color=ffffff&text_color=36C6C6&icon_color=ffffff"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerGGJ&layout=compact&langs_count=7&theme=dracula&bg_color=1e1e1e&title_color=ffffff&text_color=36C6C6"/>
+  </div>
+
+</div>
 
 ---
 
-✨ **Este README foi gerado com ❤️ por mim!**
+<div align="center">
+
+  ### Technologies
+  
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+
+  <!-- Banco de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/>
+  
+</div>
+
+---
+
+<div align="center">
+
+  ### Where to Find Me
+  
+  <a href="mailto:vagnerg.gois@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/vagner-gois-667879230/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" alt="LinkedIn">
+  </a>
+  
+</div>
+
+<footer>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36C6C6&section=footer">
+  </a>
+</footer>
