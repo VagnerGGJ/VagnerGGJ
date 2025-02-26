@@ -3,7 +3,7 @@
 </header>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&pause=1000&color=36C6C6&center=true&multiline=true&repeat=false&width=435&lines=Hello!+I'm+Vagner+Gois." alt="Hello! I'm Vagner Gois" />
+ ### Vagner Gois 
 </div>
 
 ---
