@@ -1,6 +1,4 @@
-<header>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=HHHHHH&section=header">
-</header>
+---
 
 <div align="center">
     
@@ -73,7 +71,4 @@
   
 </div>
 
-<footer>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36C6C6&section=footer">
-  </a>
-</footer>
+---
